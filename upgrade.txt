@@ -1,0 +1,6 @@
+{
+  "versionCode":1000001,
+   "content":"this is content",
+   "channel":"google",
+   "apkUrl":"https://raw.githubusercontent.com/lusins/resouce/master/measureTool_V%5B1000001_baidu%5D_20191213.apk"
+}
