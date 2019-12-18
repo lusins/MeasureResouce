@@ -1,7 +1,13 @@
 {
+
+"upgradeInfo":{
   "versionCode":1000001,
-   "content":"this is content",
+   "contentEn":"Upgrade for a better experience",
+   "contentZh":"升级享用更好体验",
    "channel":"google",
    "apkUrl":"https://github.com/lusins/resouce/raw/master/measureTool.apk"
-
+  }, 
+  "adInfo":{
+   "isOpen":true
+ }
 }
