@@ -4,5 +4,5 @@
    "contentZh":"升级享用更好体验",
    "channel":"google",
    "apkUrl":"https://github.com/lusins/resouce/raw/master/measureTool.apk",
-   "isForce":true
+   "isForce":false
 }
