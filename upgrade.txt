@@ -1,5 +1,5 @@
 {
-  "versionCode":1000001,
+  "versionCode":1000003,
    "contentEn":"Upgrade for a better experience",
    "contentZh":"升级享用更好体验",
    "channel":"google",
