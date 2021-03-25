@@ -3,6 +3,6 @@
    "contentEn":"Upgrade for a better experience",
    "contentZh":"升级享用更好体验",
    "channel":"google",
-   "apkUrl":"http://info.phgta.com/wp-content/uploads/measureTool.apk",
+   "apkUrl":"http://life.jiageduibi.com/wp-content/uploads/measureTool.apk",
    "isForce":false
 }
