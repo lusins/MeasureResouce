@@ -1,8 +1,8 @@
 {
-  "versionCode":1000008,
+  "versionCode":1000013,
    "contentEn":"Upgrade for a better experience",
    "contentZh":"升级享用更好体验",
    "channel":"google",
-   "apkUrl":"http://life.jiageduibi.com/wp-content/uploads/measureTool.apk",
+   "apkUrl":"http://vogue.jiageduibi.com/api/apk/apk-upgrade-1-0-3.apk",
    "isForce":false
 }
