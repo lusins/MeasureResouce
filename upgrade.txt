@@ -1,8 +1,8 @@
 {
-  "versionCode":1000013,
-   "contentEn":"Upgrade for a better experience",
-   "contentZh":"升级享用更好体验",
+  "versionCode":1000019,
+   "contentEn":"Added new AR functions, AR measurement, AR ruler, sound aid, meta universe\nThe interface server is put in the China, and the corresponding speed is super fast\nFixed the bug of the AR ruler\nCome and experience it!",
+   "contentZh":"增加了新的AR功能,AR测量,AR尺子,助声器,元宇宙\n接口服务器放到了国内,相应速度超快\n修复了AR尺子的Bug\n快来体验吧!",
    "channel":"google",
-   "apkUrl":"http://vogue.jiageduibi.com/api/apk/apk-upgrade-1-0-3.apk",
+   "apkUrl":"http://waohaha.com/api/apk/appupgrade1018.apk",
    "isForce":false
 }
